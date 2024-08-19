@@ -1,1 +1,3 @@
 This repo will be used for the collaboration between Maxipyke and astwo
+
+Projeyi yukarıdaki klonlama seçeneğinden klonladıktan sonra bilgisayarına jupyterlab ve jupyter notebook'u pip aracılığıyla indir. Daha sonrasında klonladığın klasörü dosya gezgininden açıp arama çubuğuna "cmd" veya "powershell" yaz. Açılan terminale "python -m notebook" yazdığın zaman arama motorunda localhost'ta bir jupyter notebook sekmesi açılacak. O sekmenin içerisinden kodları inceleyebilir veya bir değişiklik yaptığın zaman bu repo'ya gönderebilirsin. Bu repo'ya nasıl dosya gönderileceğini bilmiyorsan https://www.youtube.com/watch?v=CvUiKWv2-C0 bu videoyu izlemen yeterli.
